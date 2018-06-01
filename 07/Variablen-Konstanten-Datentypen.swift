@@ -5,7 +5,7 @@
  */
 import Cocoa
 
-var nachname = "Lexow"
+var nachname = "Müller"
 nachname = "Mustermann"
 
 let geburtstag = "04.06.1987" // String
