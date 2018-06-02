@@ -1,0 +1,33 @@
+{
+		"season": 1,
+		"episode": 0,
+		"titleLong": "Mikrolern für Swift",
+		"titleShort": "Mikrolern für Swift",
+		"titleSub": "App-Vorstellung",
+		"searchTerms": "",
+		"duration": 130,
+		"resourceURL": "https://github.com/ixeau",
+		"videoEvents": [
+				{
+						"type": "caption",
+						"title": "Lorem Caption",
+						"start": 1,
+						"duration": 2
+				},
+				{
+						"type": "term",
+						"title": "Lorem Term",
+						"start": 4,
+						"duration": 2,
+						"fileName": "cocoa.mp4"
+				},
+				{
+						"type": "quicktime",
+						"title": "Lorem Eventum",
+						"start": 7,
+						"duration": 2,
+						"fileName": "s01e00qt01.mp4",
+						"repeatPosition": 2
+				}
+		]
+}
